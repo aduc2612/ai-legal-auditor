@@ -1,0 +1,7 @@
+langchain
+langgraph
+langchain-ollama
+langchain-chroma
+langchain-openrouter
+uuid
+python-dotenv
